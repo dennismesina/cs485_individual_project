@@ -1,0 +1,57 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 1070 (ID=0x1be1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.077 seconds
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\den\Desktop\Assignment1\Builds\A1_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.753383 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 2ac4 -> priority: 1 
+  Thread -> id: 2af4 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.977386 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 430.
+Total: 0.304987 ms (FindLiveObjects: 0.034765 ms CreateObjectMapping: 0.034370 ms MarkObjects: 0.214913 ms  DeleteObjects: 0.020543 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.665284 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 301.
+Total: 0.276543 ms (FindLiveObjects: 0.048987 ms CreateObjectMapping: 0.018567 ms MarkObjects: 0.149728 ms  DeleteObjects: 0.058864 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.340543 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 1580.
+Total: 0.429432 ms (FindLiveObjects: 0.130370 ms CreateObjectMapping: 0.026469 ms MarkObjects: 0.265086 ms  DeleteObjects: 0.006716 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.778272 ms
+
+Unloading 61 unused Assets to reduce memory usage. Loaded Objects now: 302.
+Total: 0.792889 ms (FindLiveObjects: 0.038321 ms CreateObjectMapping: 0.043061 ms MarkObjects: 0.213333 ms  DeleteObjects: 0.497778 ms)
+
